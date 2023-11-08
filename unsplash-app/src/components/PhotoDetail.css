@@ -1,0 +1,7 @@
+.photo-detail img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #dc3545; /* Красный цвет для рамки */
+    border-radius: 5px;
+  }
+  

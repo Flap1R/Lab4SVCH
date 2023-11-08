@@ -1,0 +1,17 @@
+.search-results {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .search-results img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #28a745; /* Зеленый цвет для рамки */
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .search-results img:hover {
+    opacity: 0.8; /* При наведении уменьшаем немного прозрачность */
+  }
+  

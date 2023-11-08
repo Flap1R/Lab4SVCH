@@ -1,0 +1,24 @@
+.search-bar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  flex: 1;
+  padding: 10px;
+  border: 2px solid #007bff; /* Синий цвет для рамки */
+  border-radius: 5px;
+}
+
+.search-button {
+  padding: 10px 20px;
+  background-color: #007bff; /* Синий цвет для кнопки */
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #0056b3; /* Темно-синий цвет при наведении */
+}
